@@ -1,5 +1,7 @@
 # Packer Build on VMware ESXi
 
+![packer](docs/packer-logo.png)
+
 Use Packer to build VM on ESXi 7.0u1
 
 - build machines directly on VMware vSphere Hypervisor using SSH (as opposed to the vSphere API)
