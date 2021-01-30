@@ -1,0 +1,9 @@
+#cloud-config
+autoinstall:
+  version: 1
+  identity:
+    hostname: ubuntu2004
+    username: vagrant
+    password: "$6$vagrant.$sd6r0/OKL.FIGZbhanVkrLassSxoPRv1h5lkISsmBONqaLUGVXkEcD22Ddak5W8JSxeU0VFkU/We1Y7o4hVO/1"
+  ssh:
+    install-server: true
