@@ -1,6 +1,6 @@
-# ICC PA VM Images
+# Packer Build on VMware ESXi
 
-Use Packer to build VM on ESXi.
+Use Packer to build VM on ESXi 7.0u1
 
 - build machines directly on VMware vSphere Hypervisor using SSH (as opposed to the vSphere API)
 
